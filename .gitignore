@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+
+# Firebase service account key & secrets
+serviceAccountKey.json
+employee-manager-9624c-firebase-adminsdk-fbsvc-0432c61f01.json
+
+# SSL certificates/keys
+server.key
+server.cert
+*.pem
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
